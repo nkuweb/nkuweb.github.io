@@ -11,7 +11,7 @@ Burada Türk dilini kullanann bizlerin ingilizce döküman hazırlarken gerek di
 # Şu ana kadar yaptıklarımız
 Yazım doğrulama
 
-#Yapacaklarımız
+# Yapacaklarımız
 * Metin akışı kontrolü
 * Dizgisel metin editörü
 * Anlatılmak istenene yol gösteren bir API.
@@ -20,5 +20,5 @@ Yazım doğrulama
 Daha fazla detay için [Turkish NLP API](https://github.com/nkudatascience/Turkish-Language-NLP-API).
 
 
-###TELEGRAM-BOT
+### TELEGRAM-BOT
 Telegram kanalımızda attığımızın linklerin doğruluğunu kontrol eden bir bot.
