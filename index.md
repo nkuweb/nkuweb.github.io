@@ -1,6 +1,6 @@
 ## NKUWeb'e Hoşgeldiniz.
 
-Bu repository'de yaptığımız ve yapmaya devam ettiğimiz açık kaynak bütün projelerimizi görebilirsiniz.Aynı zamanda gördükleriniz haricinde bizlere destek olabilirsini.
+Bu repository'de yaptığımız ve yapmaya devam ettiğimiz açık kaynak bütün projelerimizi görebilirsiniz.Aynı zamanda gördükleriniz haricinde bizlere destek olabilirsiniz.
 
 En ufacık bile bir bilgi,merak,fikir veya destek için bizimle repo'daki adreslerden iletişime geçebilirsin
 
