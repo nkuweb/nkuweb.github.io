@@ -23,3 +23,6 @@ Daha fazla detay için [Turkish NLP API](https://github.com/nkudatascience/Turki
 ### TELEGRAM-BOT
 Telegram kanalımızda attığımızın linklerin doğruluğunu kontrol eden bir bot.
 Bunların sunucu sistemlere entegre edilmesi
+
+Daha fazla detay için [TELEGRAM-BOT](https://nkuweb.github.io/telegram-bot/).
+
